@@ -1,0 +1,13 @@
+//
+// Created by hanil on 4/28/2023.
+//
+
+#ifndef SFML_PROJECTS_FONTS_H
+#define SFML_PROJECTS_FONTS_H
+enum fonts
+{
+    BUTTON, WIDGET, WIDGET_BOLD, WIDGET_EXTRA_BOLD, WIDGET_SEMI_BOLD, WIDGET_REGULAR,
+
+    LAST_FONT
+};
+#endif //SFML_PROJECTS_FONTS_H
