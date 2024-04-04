@@ -1,4 +1,4 @@
-This expense was fully written in C++ and SFML. A user is able to input a transaction
+This expense tracker was written in C++ and SFML. A user is able to input a transaction
 through an input widget. The transaction is listed in a separate widget and displayed
 graphically in another widget.
 
